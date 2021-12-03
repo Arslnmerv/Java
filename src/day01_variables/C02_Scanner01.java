@@ -11,24 +11,17 @@ public class C02_Scanner01 {
 		
 		Scanner scan = new Scanner(System.in);
 		
-		// 2- Kullaniciya ne istediginiz bildiren bir mesaj yazin
-		
+		// 2- Kullaniciya ne istediginiz bildiren bir mesaj yazi
 		System.out.println("Lutfen isminizi giriniz");
 		
 		// Kullanicidan istedigimiz bilginin data turune gore
 		// bir variable olusturup
 		// konsolda yazilan bilgiyi kodlarimizin icine aliyoruz
-		
 		String kullanicininIsmi = scan.nextLine();
-		
-		
 		
 		System.out.println("Girdiginiz isim : " + kullanicininIsmi);
 		
 		scan.close();
-		
-		
-		
 	
 	}
 
