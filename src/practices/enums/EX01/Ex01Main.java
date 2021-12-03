@@ -3,13 +3,14 @@ package practices.enums.EX01;
 public class Ex01Main {
 
     public static void main(String[] args) {
-        //verilen ay nosuna gore ayin kac gun oldugunu yazdiriniz
 
+        //verilen ay nosuna gore ayin kac gun oldugunu yazdiriniz
         Aylar ay = Aylar.KASIM;
 
         System.out.println("ay " +ay);
         System.out.println("ay.name() = " + ay.name());
         System.out.println("ay.ordinal() = " + ay.ordinal());//enum yapisindaki index sirasi
+
         //int ay =  5;
         switch (ay) {
 

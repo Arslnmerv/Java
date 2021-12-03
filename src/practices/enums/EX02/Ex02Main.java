@@ -5,8 +5,8 @@ public class Ex02Main {
 
         User kullanici = new User();
         kullanici.name="said";
-//        kullanici.role=1;
-//        kullanici.status=2;
+        kullanici.role=1;
+        kullanici.status=2;
 
         kullanici.yetkisi = Role.ADMIN;
         kullanici.durumu=Status.LOGIN;

@@ -10,7 +10,8 @@ public class Ex04Main {
         System.out.println("secilen ay : " +ay);
 
     /*
-    Normalde enum olmasaydi bu sekilde switch case yapacaktik
+    Enum olmasaydi bu sekilde switch case yapacaktik
+
         switch (ay) {
             case SUBAT:
                 System.out.println("Bu ay 28 gundur");
