@@ -62,13 +62,11 @@ public class C01_Variables {
 
 
         // toplama islaminin basina aciklama yazmak istersek
-
         // iki sayinin toplami = 15
 
         System.out.println("iki sayinin toplami = " + (sayi1 + sayi2));
 
         // String ve sayisal islemleri birlikte yaptirdigimizda matematiksel islemi parantez icine alin
-
         // 4- Bir tamsayi ve bir ondalikli variable olusturun ve bunlarin toplamini yazdirin
 
         int sayi3 = 15;
