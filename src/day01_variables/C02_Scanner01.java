@@ -11,7 +11,7 @@ public class C02_Scanner01 {
 		
 		Scanner scan = new Scanner(System.in);
 		
-		// 2- Kullaniciya ne istediginiz bildiren bir mesaj yazi
+		// 2- Kullaniciya ne istediginizi bildiren bir mesaj yazi
 		System.out.println("Lutfen isminizi giriniz");
 		
 		// Kullanicidan istedigimiz bilginin data turune gore
