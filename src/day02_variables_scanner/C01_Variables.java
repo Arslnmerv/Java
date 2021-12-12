@@ -94,7 +94,7 @@ public class C01_Variables {
 
         System.out.println(harf + sayi5); // 20M
 
-        // char data turundeki degiskenler matematiksel islemlerde kullanilirsa ASCII tablosu devere girer
+        // char data turundeki degiskenler matematiksel islemlerde kullanilirsa ASCII tablosu devreye girer
         // Java o karakter yerine ASCII tablosundaki degeri kullanir
 
     }
